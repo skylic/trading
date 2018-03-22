@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="193a7856-f8a4-4dcf-b1ee-c2d94f876d18" name="code" url="http://skylic.iptime.org">
+        <fileTransfer host="skylic.iptime.org" port="22" rootFolder="/home/skylic" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
